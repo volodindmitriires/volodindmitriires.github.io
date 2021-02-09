@@ -1,0 +1,15 @@
+baseURL = "https://volodindmitriires.github.io"
+languageCode = "ru-ru"
+defaultContentLanguage = "ru"
+theme = "almeida-cv"
+title = "Резюме"
+
+[params]
+  colorDark = "#666"
+  colorLight = "#fff"
+  colorPageBackground = "#ddd"
+  colorPrimary = "#e49286"
+  colorPrimaryText = "#fff"
+  colorRightColumnBackground = "#f5f5f5"
+  colorSecondary = "#aaa"
+  pages = 1

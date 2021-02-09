@@ -1,0 +1,76 @@
+BasicInfo:
+  FirstName: Дмитрий
+  LastName: Сергеевич
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +7 953 308 68 84
+    - Icon: fas fa-envelope
+      Info: volodin.dmitrii.res@gmail.com
+    - Icon: fas fa-globe
+      Info: https://volodindmitriires.github.io/
+    - Icon: fas fa-map-marker-alt
+      Info: Россия
+
+Profile: Дружелюбный, открытый, усидчив, терпелив, аккуратен, беседую по существу, ценю результат. Могу спроектировать реляционную базу данных, имеется опыт в реализации интерфейсов приложений.
+
+Experience:
+  - Employer: Частная практика
+    # Place:
+    Positions:
+      - Title: Программист-разработчик
+        Date: декабрь 2017 — настоящее время
+        Details:
+          - Создание скриптов
+          - Модифицирование сайтов
+          - Создание модификаций, интерфейсов к различным играм
+        Badges: ['Программирование', 'UX-дизайн', 'локализация', 'GIT']
+  - Employer: ИП Володин
+    Place: г. Мончегорск
+    Positions:
+      - Title: Системный администратор
+        Date: июнь 2015 — настоящее время
+        # Details:
+        Badges: ['C#/WPF']
+
+Education:
+  - Course: Программирование в компьютерных системах
+    Place: Мурманский арктический государственный университет. Филиал в г. Кировск
+    Date: 2016 - 2019
+    # Details:
+  - Course: Домашний курс работ «JavaScript в браузере»
+    Place: ООО "ЦОО Нетология-Групп"
+    Date: 2019
+    # Details:
+
+Skills:
+  - Family: Программирование
+    Items:
+      - Javascript, LUA ★★★☆☆
+      - Python, SQL, PHP ★★☆☆☆
+      - C#, Bash ★☆☆☆☆
+  - Family: Фреймворки
+    Items:
+      - Hugo
+  - Family: Инструменты разработки
+    Items:
+      - Git
+      - Docker
+
+Languages:
+  - Name: Русский
+    Level: Родной
+  - Name: Английский
+    Level: B1
+  - Name: Испанский
+    Level: A1
+
+# Diplomas:
+#   - Программирование в компьютерных системах (2019)
+
+Interests:
+  - Интеграция
+  - Локализация
+  - Культура
+  - Улучшение
+  - Сотрудничество
