@@ -1,0 +1,12 @@
+.avatar__img {
+	width: 88%;
+}
+
+.avatar__img:hover {
+	width: 92%;
+}
+
+.skills__group li:hover {
+	background-color: transparent;
+	color: black;
+}
