@@ -46,8 +46,8 @@ Education:
 Skills:
   - Family: Программирование
     Items:
-      - Javascript, LUA ★★★☆☆
-      - Python, SQL, PHP ★★☆☆☆
+      - LUA ★★★★☆
+      - Javascript, Python, SQL, PHP ★★☆☆☆
       - C# (WPF), Bash ★☆☆☆☆
   - Family: Фреймворки
     Items:
